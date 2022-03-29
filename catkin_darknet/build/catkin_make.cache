@@ -1,0 +1,2 @@
+darknet_ros/darknet_ros:darknet_ros/darknet_ros_msgs
+-DCATKIN_DEVEL_PREFIX=/home/morai/catkin_darknet/devel -DCMAKE_INSTALL_PREFIX=/home/morai/catkin_darknet/install -G Unix Makefiles

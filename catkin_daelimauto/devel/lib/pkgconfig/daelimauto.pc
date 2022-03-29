@@ -1,0 +1,8 @@
+prefix=/home/morai/catkin_daelimauto/devel
+
+Name: daelimauto
+Description: Description of daelimauto
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,6 @@
+<launch>
+	<node pkg="daelim_auto" type="depthcamera.py" name="depthcamera"  />
+	<node pkg="darknet_ros" type="darknet_ros.launch" name="darknet_ros"  />
+	<node pkg="rviz" type="rviz" name="rviz" args="-d $(find daelim_auto)/rviz/depthcamera.rviz" />
+
+</launch>

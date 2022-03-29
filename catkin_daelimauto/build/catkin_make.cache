@@ -1,0 +1,2 @@
+daelimauto:wecar_msgs/morai_msgs:wecar_msgs/vesc_msgs
+-DCATKIN_DEVEL_PREFIX=/home/morai/catkin_daelimauto/devel -DCMAKE_INSTALL_PREFIX=/home/morai/catkin_daelimauto/install -G Unix Makefiles

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+
+   <node name="lane_detection" pkg="lane_detection" type="wecar_lane_detection_ROS.py" output="screen" >
+   </node>
+
+</launch>

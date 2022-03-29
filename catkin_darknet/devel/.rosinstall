@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/morai/catkin_darknet/devel/setup.sh

@@ -1,0 +1,7 @@
+<launch>
+        <!-- args = "(추종할 경로 이름)" -->
+	<node pkg="daelim_auto" type="wecar_planner2.py" name="planner" args="test_path1" output="screen" />
+
+        <node pkg="rviz" type="rviz" name="rviz" args="-d $(find daelim_auto)/rviz/planner.rviz" />
+
+</launch>
