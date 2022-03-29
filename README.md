@@ -2,9 +2,13 @@
 
 Dev env
 OS : Ubuntu18.04
+
 MiddleWare : Ros melodic (desktop-full ver)
+
 python 2.7.17 (기본내장)
+
 opencv 3.4.5 || 4.3 (별도로 빌드후 설치)
+
 darknet ros with cuda11 ( cuda 10 버전에서도 사용가능  - generic compute 86 이하 버전세팅)
 
 1. darknet_ros 설치
